@@ -1,3 +1,4 @@
 # ignore python virtual enviroment
 env/
 files_raster/
+shape_file/
